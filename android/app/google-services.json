@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155022823815",
+    "project_id": "cancer-app-8fe39",
+    "storage_bucket": "cancer-app-8fe39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155022823815:android:80cd577b7e5762c441c322",
+        "android_client_info": {
+          "package_name": "com.example.cancer_test_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsiGuGyxJ2svroojzV0w7kO-HrMmPmPqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
